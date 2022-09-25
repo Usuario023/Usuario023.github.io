@@ -1,0 +1,46 @@
+body{
+  background-color: #a4a4a4;
+  font-family:Arial,helvética;
+  margin: 0px;
+  padding: 0px;
+}
+header{
+  text-align: center;
+  color: White;
+}
+footer{
+  text-align: center;
+  color: #de9df2;
+  font-size: 35px;
+}
+article img {
+  width: 250px;
+  
+}
+ nav ul li{
+   float:left ;
+   list-style: none;
+   margin: 13px;
+ } 
+ nav{
+   background: #77e0fb;
+   text-align: center;
+ }
+ class input{
+   color: #eff7f9;
+   text-decoration: none;
+   padding:15px 50px;
+   border-radius: 2em;
+   background-color: #8a2ff1;
+   text-align: center;
+   font-size: 25px;
+ }
+ video{
+   width: 500px;
+   height: 350px;
+ }
+ .contenedor{
+   width: 80%;
+   max-width: 1000px;
+   margin:0 auto;
+ }
